@@ -1,4 +1,4 @@
 def oxford_comma(array)
-array.spilt
+array.spilt(",and")
 
 end
